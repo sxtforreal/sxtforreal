@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sxtforreal
-- 👀 I’m interested in Machine Learning & Deep Learning
+- 👀 I’m interested in Deep Learning
 - 😈 I’m currently a Master of Biostatistics candidate at Duke
 
 <!---
