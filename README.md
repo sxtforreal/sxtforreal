@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sxtforreal
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 😈 I’m currently a Master of Biostatistics candidate at Duke
+- 👀 I’m interested in Data Science, Machine Learning, and Deep Learning
+- 😈 I’m currently a Master of Biostatistics - Biomedical Data Science candidate at Duke
 
 <!---
 sxtforreal/sxtforreal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
